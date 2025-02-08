@@ -1,3 +1,5 @@
+# См. отчёт в файле REPORT.md в репо https://github.com/Gppovrm/git-practice
+
 # Лабораторная работа 5
 Git advanced workshop
 
